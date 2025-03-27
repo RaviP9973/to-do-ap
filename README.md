@@ -1,12 +1,53 @@
-# React + Vite
+To-Do App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Overview
 
-Currently, two official plugins are available:
+This is a To-Do App built using React, Tailwind CSS, and ShadCN, for storing tasks. Users can:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Add, edit, and delete tasks
 
-## Expanding the ESLint configuration
+Prioritize tasks
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Filter tasks (e.g., Completed, Pending)
+
+Use a sidebar for better navigation
+
+Features
+
+📝 Task Management: Add, edit, and delete tasks
+
+🎯 Task Prioritization: Set priority levels for tasks
+
+✅ Task Filtering: View completed and pending tasks separately
+
+📌 Sidebar Navigation: Organized categories and filters
+
+Tech Stack
+
+Frontend:
+
+React (for UI development)
+
+Tailwind CSS (for styling)
+
+ShadCN (for UI components)
+
+Installation
+
+Clone the repository:
+
+git clone https://github.com/RaviP9973/to-do-ap.git
+cd todo-app
+
+Install dependencies:
+
+npm install
+
+Start the development server:
+
+npm run dev
+
+Feel free to fork this project and submit pull requests.
+
+🔗 GitHub Repo: [https://github.com/RaviP9973/to-do-ap]
+
